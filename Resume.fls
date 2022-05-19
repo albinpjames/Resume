@@ -1,7 +1,7 @@
 PWD /home/albinpjames/Desktop/Resume
 INPUT /home/albinpjames/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /home/albinpjames/Desktop/Resume/Albin P James Resume.tex
-OUTPUT Albin P James Resume.log
+INPUT /home/albinpjames/Desktop/Resume/Resume.tex
+OUTPUT Resume.log
 INPUT ./resume.cls
 INPUT ./resume.cls
 INPUT resume.cls
@@ -177,10 +177,10 @@ INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./Albin P James Resume.aux
-INPUT Albin P James Resume.aux
-INPUT Albin P James Resume.aux
-OUTPUT Albin P James Resume.aux
+INPUT ./Resume.aux
+INPUT Resume.aux
+INPUT Resume.aux
+OUTPUT Resume.aux
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmr8.tfm
@@ -196,10 +196,10 @@ INPUT /usr/local/share/miktex-texmf/tex/latex/base/omscmr.fd
 INPUT /usr/local/share/miktex-texmf/tex/latex/base/omscmr.fd
 INPUT /usr/local/share/miktex-texmf/tex/latex/base/omscmr.fd
 INPUT /usr/local/share/miktex-texmf/tex/latex/base/omscmr.fd
-OUTPUT Albin P James Resume.pdf
+OUTPUT Resume.pdf
 INPUT /home/albinpjames/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT /usr/local/share/miktex-texmf/fonts/tfm/jknappen/ec/tcrm1095.tfm
-INPUT Albin P James Resume.aux
+INPUT Resume.aux
 INPUT /home/albinpjames/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk
 INPUT /home/albinpjames/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk
 INPUT /usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx10.pfb
