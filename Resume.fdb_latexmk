@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1653405564 "/home/albinpjames/Desktop/Resume/Resume.tex" "Resume.pdf" "Resume" 1653405564
-  "/home/albinpjames/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1651700664 212471 35d3910c4bf1012e8f4be1f90ae728a3 ""
+["pdflatex"] 1654168913 "/home/albinpjames/Desktop/Resume/Resume.tex" "Resume.pdf" "Resume" 1654168913
+  "/home/albinpjames/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1653486881 213909 fcf9f332039b1165a316477172fdbc49 ""
   "/home/albinpjames/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1650348268 12668 58b66a7685cda568573ca74fb212bb50 ""
   "/home/albinpjames/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1650831350 10248008 3af2d247f946cde0439074ecf0c246d0 ""
   "/home/albinpjames/.miktex/texmfs/install/tex/generic/kvsetkeys/kvsetkeys.sty" 1645636661 13807 952b0226d4efca026f0e19dd266dcc22 ""
@@ -10,7 +10,7 @@
   "/home/albinpjames/.miktex/texmfs/install/tex/latex/geometry/geometry.sty" 1645636651 42759 e63af52ccddba7489ac0e17d6a3344bd ""
   "/home/albinpjames/.miktex/texmfs/install/tex/latex/kvoptions/kvoptions.sty" 1645636672 22521 d2fceb764a442a2001d257ef11db7618 ""
   "/home/albinpjames/.miktex/texmfs/install/tex/latex/parskip/parskip.sty" 1650348267 4288 94714aa7f535440f33181fec52a31963 ""
-  "/home/albinpjames/Desktop/Resume/Resume.tex" 1653405563 7881 c5b1d1f3855a02b24fc60f23044d23e1 ""
+  "/home/albinpjames/Desktop/Resume/Resume.tex" 1654168913 8735 5da439f1f7f2be6ea59ba3ff247f5fdc ""
   "/usr/local/share/miktex-texmf/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1645636508 1460 8005ce585ff351dff78998923504da5e ""
   "/usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmbx10.tfm" 1645636505 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/share/miktex-texmf/fonts/tfm/public/cm/cmbx12.tfm" 1645636505 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -38,8 +38,8 @@
   "/usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty" 1645636512 2671 4de6781a30211fe0ea4c672e4a2a8166 ""
   "/usr/local/share/miktex-texmf/tex/latex/l3backend/l3backend-pdftex.def" 1650831269 31067 89623bb5c412243bea4c601866f5e8c1 ""
   "/usr/local/share/miktex-texmf/tex/latex/tools/array.sty" 1645636518 12694 6c23725d50ab9d1e2d3ce482c58ffcf3 ""
-  "Resume.aux" 1653405564 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
-  "Resume.tex" 1653405563 7881 c5b1d1f3855a02b24fc60f23044d23e1 ""
+  "Resume.aux" 1654168913 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "Resume.tex" 1654168913 8735 5da439f1f7f2be6ea59ba3ff247f5fdc ""
   "resume.cls" 1650329600 4800 7d0890dd8b770ce0426136049ebec6c1 ""
   (generated)
   "Resume.aux"
